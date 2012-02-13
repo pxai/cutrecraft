@@ -1,0 +1,5 @@
+C:\Users\pello_altadill\documents\visual studio 2010\Projects\CutreCraft\CutreCraft\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pello_altadill\documents\visual studio 2010\Projects\CutreCraft\CutreCraft\bin\Debug\CutreCraft.exe
+C:\Users\pello_altadill\documents\visual studio 2010\Projects\CutreCraft\CutreCraft\bin\Debug\CutreCraft.pdb
+C:\Users\pello_altadill\documents\visual studio 2010\Projects\CutreCraft\CutreCraft\obj\x86\Debug\CutreCraft.exe
+C:\Users\pello_altadill\documents\visual studio 2010\Projects\CutreCraft\CutreCraft\obj\x86\Debug\CutreCraft.pdb
